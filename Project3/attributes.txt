@@ -1,0 +1,9 @@
+seating: booth, table
+kids-menu: kids-menu, no-kids-menu
+bread: bread, no-bread
+water: water, lemon-water
+appetizer: salad, soup
+drink: beer, wine
+entree: fish, steak
+side: french-fries, vegetables
+dessert: cake, ice-cream
